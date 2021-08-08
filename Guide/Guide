@@ -1,0 +1,8 @@
+# Guide for demonstration of vx js example:
+  1. vue create vx-js-example
+  2. npm install axios bootstrap
+  3. vue user modules for state management created
+  4. Configure fake json db server as :
+    a. create a datbase.json in root
+    b. npm install -g json-server
+    c. json-server --watch database.json
